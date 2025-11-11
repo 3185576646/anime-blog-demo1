@@ -1,11 +1,13 @@
 ---
-title: Hello World
-banner: "this is test page"
-cover: https://images.bauerhosting.com/empire/2024/05/01-Princess-Mononoke.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
+
+标题: 你好，世界
+横幅：“这是测试页面”
+封面: https://images.bauerhosting.com/empire/2024/05/01-Princess-Mononoke.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80
 ---
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 快速开始
 
 ### Create a new post
 
@@ -13,28 +15,28 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 $ hexo new "My New Post"
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+更多信息：[写作](https://hexo.io/docs/writing.html)
 
-### Run server
+### 运行服务器
 
-``` bash
-$ hexo server
+```bash
+$ hexo 服务器
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+更多信息：[服务器](https://hexo.io/docs/server.html)
 
-### Generate static files
+### 生成静态文件
 
-``` bash
+```bash
 $ hexo generate
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+更多信息：[生成](https://hexo.io/docs/generating.html)
 
-### Deploy to remote sites
+### 部署到远程站点
 
-``` bash
+```bash
 $ hexo deploy
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+更多信息：[部署](https://hexo.io/docs/one-command-deployment.html)
